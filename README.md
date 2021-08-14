@@ -1,2 +1,2 @@
 # Type Racer Game using Python
-# Tests your speed and accuracy
+# Tests your Speed and Accuracy
