@@ -1,2 +1,1 @@
-# Type Racer Game using Python
-# Tests your Speed and Accuracy
+# Program that uses Python to Test your Typing Speed and Accuracy
