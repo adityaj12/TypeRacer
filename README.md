@@ -1,1 +1,1 @@
-# Program that uses Python to Test your Typing Speed and Accuracy
+# Program that Uses Python to Test your Typing Speed and Accuracy
